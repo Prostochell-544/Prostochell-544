@@ -3,13 +3,12 @@
 ## I'm ITMO University student
 - 🌱 I’m currently learning biology and programing
 - 👨‍🎓Ex. LTPU and Samsung student
-- 📫 How to reach me:
   
-### ☎️ Connect with me:
+### 📫 How to reach me:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/usec228)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:yourmail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/usec228)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
 
 <br/>
 <br/>
