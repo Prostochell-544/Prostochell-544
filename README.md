@@ -7,7 +7,9 @@
   
 ### ☎️ Connect with me:
 
-[<img alt="usec228 | Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0.svg?logo=telegram&style=for-the-badge" />](https://t.me/usec228)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&style=for-the-badge)](https://t.me/usec228)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:yourmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
 
 <br/>
 <br/>
