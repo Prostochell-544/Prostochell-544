@@ -3,18 +3,41 @@
 ### 🧪 What I do (and occasionally break):
 - 🧬 **3rd-year Bioengineering student @ ITMO** — translating organic chaos into structured code.
 - 🔬 **Mad science in progress:** obsessed with biomimetic materials, chemo- & bioinformatics, genetics, and… precision laser welding (yes, lasers make everything better).
-- 🛡️ **Unreasonably broad engineering interests:** from CRISPR gene editing protocols to NATO-standard field fortifications. If it can be built, hacked, or reinforced — I’m into it.
+- 🛡️ **Unreasonably broad engineering scope:** from CRISPR gene editing protocols to NATO-standard field fortifications. If it can be built, modeled, or reinforced — I’m into it.
 - 🎓 **Roots:** LTPU Lyceum alum & Samsung IT Academy graduate.
 
 ---
 
+### 💬 Human Languages:
+- 🇷🇺 **Russian** (Native/Fluent)
+- 🇺🇦 **Ukrainian** (Native/Fluent)
+- 🇬🇧 **English** (B2 / Working proficiency)
+- 🇩🇪 **German** (Elementary / Work in progress)
+
+---
+
 ### 💻 Tech & Weapons of Choice:
+
+**Languages & Computing:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
+
+**Research & Knowledge Systems:**  
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=flat-square&logo=zotero&logoColor=white)
+
+---
+
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prostochell-228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yuri's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prostochell-228&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
